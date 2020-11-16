@@ -1,0 +1,7 @@
+name: LobbySystem
+version: 1.0-SNAPSHOT
+author: Prouge
+main: me.prouge.lobbySystem.LobbySystem
+website: Spiele-insel.eu
+commands:
+  setspawn:
